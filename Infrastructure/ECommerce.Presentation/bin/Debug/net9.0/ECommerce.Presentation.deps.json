@@ -1,0 +1,55 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "ECommerce.Presentation/1.0.0": {
+        "dependencies": {
+          "ECommerce.Abstraction": "1.0.0"
+        },
+        "runtime": {
+          "ECommerce.Presentation.dll": {}
+        }
+      },
+      "ECommerce.Abstraction/1.0.0": {
+        "dependencies": {
+          "ECommerce.Shared": "1.0.0"
+        },
+        "runtime": {
+          "ECommerce.Abstraction.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      },
+      "ECommerce.Shared/1.0.0": {
+        "runtime": {
+          "ECommerce.Shared.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ECommerce.Presentation/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "ECommerce.Abstraction/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "ECommerce.Shared/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
