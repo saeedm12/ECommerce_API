@@ -175,3 +175,7 @@ D:\Backend\C# Projects\ASP.NET CORE API\ECommerceSolution\ECommerce.Web\obj\Debu
 D:\Backend\C# Projects\ASP.NET CORE API\ECommerceSolution\ECommerce.Web\obj\Debug\net9.0\ECommerce.Web.pdb
 D:\Backend\C# Projects\ASP.NET CORE API\ECommerceSolution\ECommerce.Web\obj\Debug\net9.0\ECommerce.Web.genruntimeconfig.cache
 D:\Backend\C# Projects\ASP.NET CORE API\ECommerceSolution\ECommerce.Web\obj\Debug\net9.0\ref\ECommerce.Web.dll
+D:\Backend\C# Projects\ASP.NET CORE API\ECommerceSolution\ECommerce.Web\bin\Debug\net9.0\AutoMapper.dll
+D:\Backend\C# Projects\ASP.NET CORE API\ECommerceSolution\ECommerce.Web\obj\Debug\net9.0\ECommerce.Web.sourcelink.json
+D:\Backend\C# Projects\ASP.NET CORE API\ECommerceSolution\ECommerce.Web\bin\Debug\net9.0\ECommerce.Web.staticwebassets.runtime.json
+D:\Backend\C# Projects\ASP.NET CORE API\ECommerceSolution\ECommerce.Web\bin\Debug\net9.0\Microsoft.Extensions.Configuration.dll

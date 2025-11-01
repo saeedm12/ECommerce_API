@@ -19,16 +19,17 @@ namespace ECommerce.Persistence.Seeds
         {
             this.context = context;
         }
-        public void DataSeed()
+        public async Task DataSeedAsync()
         {
-            if (context.Database.GetPendingMigrations().Any())
+            var PendingMigrations = await context.Database.GetPendingMigrationsAsync();
+            if (PendingMigrations.Any())
             {
                 context.Database.Migrate();
             }
 
             if (!context.ProductBrands.Any())
             {
-                var ProductBrandsData = File.ReadAllText(@"..\Infrastructure\ECommerce.Persistence\Data\brands.json");
+                var ProductBrandsData = await File.ReadAllTextAsync(@"..\Infrastructure\ECommerce.Persistence\Data\brands.json");
                 var ProductBrands = JsonSerializer.Deserialize<List<ProductBrand>>(ProductBrandsData);
 
                 if (ProductBrands != null && ProductBrands.Any())
@@ -40,7 +41,7 @@ namespace ECommerce.Persistence.Seeds
 
             if (!context.ProductTypes.Any())
             {
-                var ProductTypesData = File.ReadAllText(@"..\Infrastructure\ECommerce.Persistence\Data\types.json");
+                var ProductTypesData = await File.ReadAllTextAsync(@"..\Infrastructure\ECommerce.Persistence\Data\types.json");
                 var ProductTypes = JsonSerializer.Deserialize<List<ProductType>>(ProductTypesData);
                 if (ProductTypes != null && ProductTypes.Any())
                 {
@@ -52,7 +53,7 @@ namespace ECommerce.Persistence.Seeds
 
             if (!context.Products.Any())
             {
-                var ProductsData = File.ReadAllText(@"..\Infrastructure\ECommerce.Persistence\Data\products.json");
+                var ProductsData =await File.ReadAllTextAsync(@"..\Infrastructure\ECommerce.Persistence\Data\products.json");
                 var Products = JsonSerializer.Deserialize<List<Product>>(ProductsData);
                 if (Products != null && Products.Any()) { context.Products.AddRange(Products); }
             }

@@ -13,3 +13,4 @@ D:\Backend\C# Projects\ASP.NET CORE API\ECommerceSolution\Core\ECommerce.Abstrac
 D:\Backend\C# Projects\ASP.NET CORE API\ECommerceSolution\Core\ECommerce.Abstraction\obj\Debug\net9.0\refint\ECommerce.Abstraction.dll
 D:\Backend\C# Projects\ASP.NET CORE API\ECommerceSolution\Core\ECommerce.Abstraction\obj\Debug\net9.0\ECommerce.Abstraction.pdb
 D:\Backend\C# Projects\ASP.NET CORE API\ECommerceSolution\Core\ECommerce.Abstraction\obj\Debug\net9.0\ref\ECommerce.Abstraction.dll
+D:\Backend\C# Projects\ASP.NET CORE API\ECommerceSolution\Core\ECommerce.Abstraction\obj\Debug\net9.0\ECommerce.Abstraction.sourcelink.json

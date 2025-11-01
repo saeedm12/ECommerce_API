@@ -1,14 +1,20 @@
 
+using ECommerce.Abstraction.IServices;
 using ECommerce.Domain.Contracts.Seeds;
+using ECommerce.Domain.Contracts.UOW;
 using ECommerce.Persistence.Contexts;
 using ECommerce.Persistence.Seeds;
+using ECommerce.Persistence.UOW;
+using ECommerce.Service.MappingProfiles;
+using ECommerce.Service.Services;
 using Microsoft.EntityFrameworkCore;
+using System.Threading.Tasks;
 
 namespace ECommerce.Web
 {
     public class Program
     {
-        public static void Main(string[] args)
+        public static async Task Main(string[] args)
         {
             var builder = WebApplication.CreateBuilder(args);
 
@@ -25,12 +31,15 @@ namespace ECommerce.Web
                 );
 
             builder.Services.AddScoped<IDataSeeding, DataSeeding>();
+            builder.Services.AddScoped<IUnitOfWork,UnitOfWork>();
+            builder.Services.AddScoped<IServiceManager, ServiceManager>();
+            builder.Services.AddAutoMapper(m => m.AddProfile(new ProjectProfile(builder.Configuration)));
 
             var app = builder.Build();
 
             var Scope = app.Services.CreateScope();
             var ObjectSeeding = Scope.ServiceProvider.GetRequiredService<IDataSeeding>();
-            ObjectSeeding.DataSeed();
+            await ObjectSeeding.DataSeedAsync();
             
 
             // Configure the HTTP request pipeline.
@@ -40,6 +49,7 @@ namespace ECommerce.Web
             }
 
             app.UseHttpsRedirection();
+            app.UseStaticFiles();
 
             app.UseAuthorization();
 

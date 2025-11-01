@@ -17,3 +17,4 @@ D:\Backend\C# Projects\ASP.NET CORE API\ECommerceSolution\Core\ECommerce.Service
 D:\Backend\C# Projects\ASP.NET CORE API\ECommerceSolution\Core\ECommerce.Service\obj\Debug\net9.0\refint\ECommerce.Service.dll
 D:\Backend\C# Projects\ASP.NET CORE API\ECommerceSolution\Core\ECommerce.Service\obj\Debug\net9.0\ECommerce.Service.pdb
 D:\Backend\C# Projects\ASP.NET CORE API\ECommerceSolution\Core\ECommerce.Service\obj\Debug\net9.0\ref\ECommerce.Service.dll
+D:\Backend\C# Projects\ASP.NET CORE API\ECommerceSolution\Core\ECommerce.Service\obj\Debug\net9.0\ECommerce.Service.sourcelink.json

@@ -9,3 +9,4 @@ D:\Backend\C# Projects\ASP.NET CORE API\ECommerceSolution\ECommerce.Shared\obj\D
 D:\Backend\C# Projects\ASP.NET CORE API\ECommerceSolution\ECommerce.Shared\obj\Debug\net9.0\refint\ECommerce.Shared.dll
 D:\Backend\C# Projects\ASP.NET CORE API\ECommerceSolution\ECommerce.Shared\obj\Debug\net9.0\ECommerce.Shared.pdb
 D:\Backend\C# Projects\ASP.NET CORE API\ECommerceSolution\ECommerce.Shared\obj\Debug\net9.0\ref\ECommerce.Shared.dll
+D:\Backend\C# Projects\ASP.NET CORE API\ECommerceSolution\ECommerce.Shared\obj\Debug\net9.0\ECommerce.Shared.sourcelink.json

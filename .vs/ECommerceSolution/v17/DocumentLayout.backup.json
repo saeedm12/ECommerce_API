@@ -3,32 +3,36 @@
   "WorkspaceRootPath": "D:\\Backend\\C# Projects\\ASP.NET CORE API\\ECommerceSolution\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Backend\\C# Projects\\ASP.NET CORE API\\ECommerceSolution\\Infrastructure\\ECommerce.Persistence\\Migrations\\20251025193222_ProductModule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Infrastructure\\ECommerce.Persistence\\Migrations\\20251025193222_ProductModule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{8D197FC1-97D9-4BC1-8E2E-D86B19A0D220}|Core\\ECommerce.Service\\ECommerce.Service.csproj|d:\\backend\\c# projects\\asp.net core api\\ecommercesolution\\core\\ecommerce.service\\specifications\\productspecs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D197FC1-97D9-4BC1-8E2E-D86B19A0D220}|Core\\ECommerce.Service\\ECommerce.Service.csproj|solutionrelative:core\\ecommerce.service\\specifications\\productspecs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{181F3752-32DF-41F0-B69D-94C61FAD7366}|Infrastructure\\ECommerce.Persistence\\ECommerce.Persistence.csproj|d:\\backend\\c# projects\\asp.net core api\\ecommercesolution\\infrastructure\\ecommerce.persistence\\seeds\\dataseeding.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{181F3752-32DF-41F0-B69D-94C61FAD7366}|Infrastructure\\ECommerce.Persistence\\ECommerce.Persistence.csproj|solutionrelative:infrastructure\\ecommerce.persistence\\seeds\\dataseeding.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E9B0FD28-DB03-45DF-ADAD-1BFCDFE547F1}|Core\\ECommerce.Abstraction\\ECommerce.Abstraction.csproj|d:\\backend\\c# projects\\asp.net core api\\ecommercesolution\\core\\ecommerce.abstraction\\iservices\\iproductservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E9B0FD28-DB03-45DF-ADAD-1BFCDFE547F1}|Core\\ECommerce.Abstraction\\ECommerce.Abstraction.csproj|solutionrelative:core\\ecommerce.abstraction\\iservices\\iproductservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{181F3752-32DF-41F0-B69D-94C61FAD7366}|Infrastructure\\ECommerce.Persistence\\ECommerce.Persistence.csproj|d:\\backend\\c# projects\\asp.net core api\\ecommercesolution\\infrastructure\\ecommerce.persistence\\contexts\\storedbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{181F3752-32DF-41F0-B69D-94C61FAD7366}|Infrastructure\\ECommerce.Persistence\\ECommerce.Persistence.csproj|solutionrelative:infrastructure\\ecommerce.persistence\\contexts\\storedbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{8D197FC1-97D9-4BC1-8E2E-D86B19A0D220}|Core\\ECommerce.Service\\ECommerce.Service.csproj|d:\\backend\\c# projects\\asp.net core api\\ecommercesolution\\core\\ecommerce.service\\services\\productservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D197FC1-97D9-4BC1-8E2E-D86B19A0D220}|Core\\ECommerce.Service\\ECommerce.Service.csproj|solutionrelative:core\\ecommerce.service\\services\\productservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E5D94214-D727-457B-BA89-B7852E5F2631}|Core\\ECommerceDomain\\ECommerce.Domain.csproj|d:\\backend\\c# projects\\asp.net core api\\ecommercesolution\\core\\ecommercedomain\\model\\productmodels\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E5D94214-D727-457B-BA89-B7852E5F2631}|Core\\ECommerceDomain\\ECommerce.Domain.csproj|solutionrelative:core\\ecommercedomain\\model\\productmodels\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{CD3201B7-081A-404B-8FD1-5967941B927E}|Infrastructure\\ECommerce.Presentation\\ECommerce.Presentation.csproj|d:\\backend\\c# projects\\asp.net core api\\ecommercesolution\\infrastructure\\ecommerce.presentation\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CD3201B7-081A-404B-8FD1-5967941B927E}|Infrastructure\\ECommerce.Presentation\\ECommerce.Presentation.csproj|solutionrelative:infrastructure\\ecommerce.presentation\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{181F3752-32DF-41F0-B69D-94C61FAD7366}|Infrastructure\\ECommerce.Persistence\\ECommerce.Persistence.csproj|d:\\backend\\c# projects\\asp.net core api\\ecommercesolution\\infrastructure\\ecommerce.persistence\\configurations\\productconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{181F3752-32DF-41F0-B69D-94C61FAD7366}|Infrastructure\\ECommerce.Persistence\\ECommerce.Persistence.csproj|solutionrelative:infrastructure\\ecommerce.persistence\\configurations\\productconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{181F3752-32DF-41F0-B69D-94C61FAD7366}|Infrastructure\\ECommerce.Persistence\\ECommerce.Persistence.csproj|d:\\backend\\c# projects\\asp.net core api\\ecommercesolution\\infrastructure\\ecommerce.persistence\\specsevaluation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{181F3752-32DF-41F0-B69D-94C61FAD7366}|Infrastructure\\ECommerce.Persistence\\ECommerce.Persistence.csproj|solutionrelative:infrastructure\\ecommerce.persistence\\specsevaluation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Backend\\C# Projects\\ASP.NET CORE API\\ECommerceSolution\\Infrastructure\\ECommerce.Persistence\\Migrations\\20251025192614_ProductModule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Infrastructure\\ECommerce.Persistence\\Migrations\\20251025192614_ProductModule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{949F8F13-0E66-4BA6-9DEA-B96849FCF17C}|ECommerce.Shared\\ECommerce.Shared.csproj|d:\\backend\\c# projects\\asp.net core api\\ecommercesolution\\ecommerce.shared\\common\\productsortingoptions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{949F8F13-0E66-4BA6-9DEA-B96849FCF17C}|ECommerce.Shared\\ECommerce.Shared.csproj|solutionrelative:ecommerce.shared\\common\\productsortingoptions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E5D94214-D727-457B-BA89-B7852E5F2631}|Core\\ECommerceDomain\\ECommerce.Domain.csproj|d:\\backend\\c# projects\\asp.net core api\\ecommercesolution\\core\\ecommercedomain\\model\\productmodels\\productbrand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E5D94214-D727-457B-BA89-B7852E5F2631}|Core\\ECommerceDomain\\ECommerce.Domain.csproj|solutionrelative:core\\ecommercedomain\\model\\productmodels\\productbrand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{949F8F13-0E66-4BA6-9DEA-B96849FCF17C}|ECommerce.Shared\\ECommerce.Shared.csproj|d:\\backend\\c# projects\\asp.net core api\\ecommercesolution\\ecommerce.shared\\common\\productqueryparams.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{949F8F13-0E66-4BA6-9DEA-B96849FCF17C}|ECommerce.Shared\\ECommerce.Shared.csproj|solutionrelative:ecommerce.shared\\common\\productqueryparams.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D197FC1-97D9-4BC1-8E2E-D86B19A0D220}|Core\\ECommerce.Service\\ECommerce.Service.csproj|d:\\backend\\c# projects\\asp.net core api\\ecommercesolution\\core\\ecommerce.service\\specifications\\basespecs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D197FC1-97D9-4BC1-8E2E-D86B19A0D220}|Core\\ECommerce.Service\\ECommerce.Service.csproj|solutionrelative:core\\ecommerce.service\\specifications\\basespecs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -38,7 +42,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 7,
           "Children": [
             {
               "$type": "Bookmark",
@@ -46,93 +50,106 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "20251025193222_ProductModule.cs",
-              "DocumentMoniker": "D:\\Backend\\C# Projects\\ASP.NET CORE API\\ECommerceSolution\\Infrastructure\\ECommerce.Persistence\\Migrations\\20251025193222_ProductModule.cs",
-              "RelativeDocumentMoniker": "Infrastructure\\ECommerce.Persistence\\Migrations\\20251025193222_ProductModule.cs",
-              "ToolTip": "D:\\Backend\\C# Projects\\ASP.NET CORE API\\ECommerceSolution\\Infrastructure\\ECommerce.Persistence\\Migrations\\20251025193222_ProductModule.cs",
-              "RelativeToolTip": "Infrastructure\\ECommerce.Persistence\\Migrations\\20251025193222_ProductModule.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 6,
+              "Title": "ProductQueryParams.cs",
+              "DocumentMoniker": "D:\\Backend\\C# Projects\\ASP.NET CORE API\\ECommerceSolution\\ECommerce.Shared\\Common\\ProductQueryParams.cs",
+              "RelativeDocumentMoniker": "ECommerce.Shared\\Common\\ProductQueryParams.cs",
+              "ToolTip": "D:\\Backend\\C# Projects\\ASP.NET CORE API\\ECommerceSolution\\ECommerce.Shared\\Common\\ProductQueryParams.cs*",
+              "RelativeToolTip": "ECommerce.Shared\\Common\\ProductQueryParams.cs*",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA0AAAAxAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-25T19:32:22.443Z",
+              "WhenOpened": "2025-11-01T23:09:44.779Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "ProductConfig.cs",
-              "DocumentMoniker": "D:\\Backend\\C# Projects\\ASP.NET CORE API\\ECommerceSolution\\Infrastructure\\ECommerce.Persistence\\Configurations\\ProductConfig.cs",
-              "RelativeDocumentMoniker": "Infrastructure\\ECommerce.Persistence\\Configurations\\ProductConfig.cs",
-              "ToolTip": "D:\\Backend\\C# Projects\\ASP.NET CORE API\\ECommerceSolution\\Infrastructure\\ECommerce.Persistence\\Configurations\\ProductConfig.cs",
-              "RelativeToolTip": "Infrastructure\\ECommerce.Persistence\\Configurations\\ProductConfig.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Title": "SpecsEvaluation.cs",
+              "DocumentMoniker": "D:\\Backend\\C# Projects\\ASP.NET CORE API\\ECommerceSolution\\Infrastructure\\ECommerce.Persistence\\SpecsEvaluation.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\ECommerce.Persistence\\SpecsEvaluation.cs",
+              "ToolTip": "D:\\Backend\\C# Projects\\ASP.NET CORE API\\ECommerceSolution\\Infrastructure\\ECommerce.Persistence\\SpecsEvaluation.cs",
+              "RelativeToolTip": "Infrastructure\\ECommerce.Persistence\\SpecsEvaluation.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAABBAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-25T19:30:12.378Z",
+              "WhenOpened": "2025-11-01T22:29:33.458Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 5,
-              "Title": "20251025192614_ProductModule.cs",
-              "DocumentMoniker": "D:\\Backend\\C# Projects\\ASP.NET CORE API\\ECommerceSolution\\Infrastructure\\ECommerce.Persistence\\Migrations\\20251025192614_ProductModule.cs",
-              "RelativeDocumentMoniker": "Infrastructure\\ECommerce.Persistence\\Migrations\\20251025192614_ProductModule.cs",
-              "ToolTip": "D:\\Backend\\C# Projects\\ASP.NET CORE API\\ECommerceSolution\\Infrastructure\\ECommerce.Persistence\\Migrations\\20251025192614_ProductModule.cs",
-              "RelativeToolTip": "Infrastructure\\ECommerce.Persistence\\Migrations\\20251025192614_ProductModule.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Title": "ProductSortingOptions.cs",
+              "DocumentMoniker": "D:\\Backend\\C# Projects\\ASP.NET CORE API\\ECommerceSolution\\ECommerce.Shared\\Common\\ProductSortingOptions.cs",
+              "RelativeDocumentMoniker": "ECommerce.Shared\\Common\\ProductSortingOptions.cs",
+              "ToolTip": "D:\\Backend\\C# Projects\\ASP.NET CORE API\\ECommerceSolution\\ECommerce.Shared\\Common\\ProductSortingOptions.cs",
+              "RelativeToolTip": "ECommerce.Shared\\Common\\ProductSortingOptions.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-25T19:26:14.717Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "DataSeeding.cs",
-              "DocumentMoniker": "D:\\Backend\\C# Projects\\ASP.NET CORE API\\ECommerceSolution\\Infrastructure\\ECommerce.Persistence\\Seeds\\DataSeeding.cs",
-              "RelativeDocumentMoniker": "Infrastructure\\ECommerce.Persistence\\Seeds\\DataSeeding.cs",
-              "ToolTip": "D:\\Backend\\C# Projects\\ASP.NET CORE API\\ECommerceSolution\\Infrastructure\\ECommerce.Persistence\\Seeds\\DataSeeding.cs",
-              "RelativeToolTip": "Infrastructure\\ECommerce.Persistence\\Seeds\\DataSeeding.cs",
-              "ViewState": "AgIAACkAAAAAAAAAAAAawDgAAABKAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-25T19:24:42.73Z",
+              "WhenOpened": "2025-11-01T22:19:02.285Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "Product.cs",
-              "DocumentMoniker": "D:\\Backend\\C# Projects\\ASP.NET CORE API\\ECommerceSolution\\Core\\ECommerceDomain\\Model\\ProductModels\\Product.cs",
-              "RelativeDocumentMoniker": "Core\\ECommerceDomain\\Model\\ProductModels\\Product.cs",
-              "ToolTip": "D:\\Backend\\C# Projects\\ASP.NET CORE API\\ECommerceSolution\\Core\\ECommerceDomain\\Model\\ProductModels\\Product.cs",
-              "RelativeToolTip": "Core\\ECommerceDomain\\Model\\ProductModels\\Product.cs",
-              "ViewState": "AgIAAAoAAAAAAAAAAAAzwAAAAAAAAAAAAAAAAA==",
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "D:\\Backend\\C# Projects\\ASP.NET CORE API\\ECommerceSolution\\Infrastructure\\ECommerce.Presentation\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\ECommerce.Presentation\\Controllers\\ProductController.cs",
+              "ToolTip": "D:\\Backend\\C# Projects\\ASP.NET CORE API\\ECommerceSolution\\Infrastructure\\ECommerce.Presentation\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "Infrastructure\\ECommerce.Presentation\\Controllers\\ProductController.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABEAAABaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-25T19:24:33.079Z",
+              "WhenOpened": "2025-11-01T22:18:06.274Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "StoreDbContext.cs",
-              "DocumentMoniker": "D:\\Backend\\C# Projects\\ASP.NET CORE API\\ECommerceSolution\\Infrastructure\\ECommerce.Persistence\\Contexts\\StoreDbContext.cs",
-              "RelativeDocumentMoniker": "Infrastructure\\ECommerce.Persistence\\Contexts\\StoreDbContext.cs",
-              "ToolTip": "D:\\Backend\\C# Projects\\ASP.NET CORE API\\ECommerceSolution\\Infrastructure\\ECommerce.Persistence\\Contexts\\StoreDbContext.cs",
-              "RelativeToolTip": "Infrastructure\\ECommerce.Persistence\\Contexts\\StoreDbContext.cs",
-              "ViewState": "AgIAAA0AAAAAAAAAAAAQwBgAAAAuAAAAAAAAAA==",
+              "Title": "ProductServices.cs",
+              "DocumentMoniker": "D:\\Backend\\C# Projects\\ASP.NET CORE API\\ECommerceSolution\\Core\\ECommerce.Service\\Services\\ProductServices.cs",
+              "RelativeDocumentMoniker": "Core\\ECommerce.Service\\Services\\ProductServices.cs",
+              "ToolTip": "D:\\Backend\\C# Projects\\ASP.NET CORE API\\ECommerceSolution\\Core\\ECommerce.Service\\Services\\ProductServices.cs",
+              "RelativeToolTip": "Core\\ECommerce.Service\\Services\\ProductServices.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAABQAAAAmAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-25T19:24:09.947Z",
+              "WhenOpened": "2025-11-01T22:16:31.257Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "ProductBrand.cs",
-              "DocumentMoniker": "D:\\Backend\\C# Projects\\ASP.NET CORE API\\ECommerceSolution\\Core\\ECommerceDomain\\Model\\ProductModels\\ProductBrand.cs",
-              "RelativeDocumentMoniker": "Core\\ECommerceDomain\\Model\\ProductModels\\ProductBrand.cs",
-              "ToolTip": "D:\\Backend\\C# Projects\\ASP.NET CORE API\\ECommerceSolution\\Core\\ECommerceDomain\\Model\\ProductModels\\ProductBrand.cs",
-              "RelativeToolTip": "Core\\ECommerceDomain\\Model\\ProductModels\\ProductBrand.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 1,
+              "Title": "IProductServices.cs",
+              "DocumentMoniker": "D:\\Backend\\C# Projects\\ASP.NET CORE API\\ECommerceSolution\\Core\\ECommerce.Abstraction\\IServices\\IProductServices.cs",
+              "RelativeDocumentMoniker": "Core\\ECommerce.Abstraction\\IServices\\IProductServices.cs",
+              "ToolTip": "D:\\Backend\\C# Projects\\ASP.NET CORE API\\ECommerceSolution\\Core\\ECommerce.Abstraction\\IServices\\IProductServices.cs",
+              "RelativeToolTip": "Core\\ECommerce.Abstraction\\IServices\\IProductServices.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAIwAwAAABfAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-25T19:23:59.133Z",
+              "WhenOpened": "2025-11-01T22:16:27.132Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ProductSpecs.cs",
+              "DocumentMoniker": "D:\\Backend\\C# Projects\\ASP.NET CORE API\\ECommerceSolution\\Core\\ECommerce.Service\\Specifications\\ProductSpecs.cs",
+              "RelativeDocumentMoniker": "Core\\ECommerce.Service\\Specifications\\ProductSpecs.cs",
+              "ToolTip": "D:\\Backend\\C# Projects\\ASP.NET CORE API\\ECommerceSolution\\Core\\ECommerce.Service\\Specifications\\ProductSpecs.cs*",
+              "RelativeToolTip": "Core\\ECommerce.Service\\Specifications\\ProductSpecs.cs*",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAA4AAACJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-01T22:22:28.367Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "BaseSpecs.cs",
+              "DocumentMoniker": "D:\\Backend\\C# Projects\\ASP.NET CORE API\\ECommerceSolution\\Core\\ECommerce.Service\\Specifications\\BaseSpecs.cs",
+              "RelativeDocumentMoniker": "Core\\ECommerce.Service\\Specifications\\BaseSpecs.cs",
+              "ToolTip": "D:\\Backend\\C# Projects\\ASP.NET CORE API\\ECommerceSolution\\Core\\ECommerce.Service\\Specifications\\BaseSpecs.cs",
+              "RelativeToolTip": "Core\\ECommerce.Service\\Specifications\\BaseSpecs.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAACoAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-01T22:06:44.655Z",
               "EditorCaption": ""
             }
           ]

@@ -1,0 +1,46 @@
+﻿using ECommerce.Abstraction.IServices;
+using ECommerce.Shared.Common;
+using ECommerce.Shared.Dtos;
+using Microsoft.AspNetCore.Mvc;
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace ECommerce.Presentation.Controllers
+{
+    [ApiController]
+    [Route("api/[controller]")]
+    public class ProductController(IServiceManager serviceManager) : ControllerBase
+    {
+        [HttpGet]
+        public async Task<ActionResult<IEnumerable<ProductDto>>> GetAllProducts([FromQuery]ProductQueryParams productQueryParams)
+
+        {
+            var Products = await serviceManager.productServices.GetAllProductsAsync(productQueryParams);
+            return Ok(Products);
+        }
+        [HttpGet("Brands")]
+        public async Task<ActionResult<IEnumerable<BrandDto>>> GetAllBrands()
+        {
+            var Brands = await serviceManager.productServices.GetAllBrandsAsync();
+            return Ok(Brands);
+        }
+        [HttpGet("Types")]
+
+        public async Task<ActionResult<IEnumerable<TypeDto>>> GetAllTypes()
+
+        {
+            var Types = await serviceManager.productServices.GetAllTypesAsync();
+            return Ok(Types);
+        }
+        [HttpGet("{id}")]
+        public async Task<ActionResult<ProductDto>> GetProductById(int id)
+
+        {
+            var Product = await serviceManager.productServices.GetByIdAsync(id);
+            return Ok(Product);
+        }
+    }
+}

@@ -19,3 +19,4 @@ D:\Backend\C# Projects\ASP.NET CORE API\ECommerceSolution\Infrastructure\ECommer
 D:\Backend\C# Projects\ASP.NET CORE API\ECommerceSolution\Infrastructure\ECommerce.Persistence\obj\Debug\net9.0\refint\ECommerce.Persistence.dll
 D:\Backend\C# Projects\ASP.NET CORE API\ECommerceSolution\Infrastructure\ECommerce.Persistence\obj\Debug\net9.0\ECommerce.Persistence.pdb
 D:\Backend\C# Projects\ASP.NET CORE API\ECommerceSolution\Infrastructure\ECommerce.Persistence\obj\Debug\net9.0\ref\ECommerce.Persistence.dll
+D:\Backend\C# Projects\ASP.NET CORE API\ECommerceSolution\Infrastructure\ECommerce.Persistence\obj\Debug\net9.0\ECommerce.Persistence.sourcelink.json
